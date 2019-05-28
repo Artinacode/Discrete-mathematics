@@ -6,6 +6,6 @@ int main1()
 {
    int a;
    cin>>a;
-   cout<<a*a;
+rtrtrtr
     return 0;
 }
