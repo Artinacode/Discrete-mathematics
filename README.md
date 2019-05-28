@@ -1,4 +1,3 @@
 # Discrete-mathematics
 # АлЙўКэС§
 
-АлЙўАлЙўАлЙў
