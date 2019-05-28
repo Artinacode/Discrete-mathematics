@@ -1,6 +1,6 @@
 #include <iostream>
-
+#include "main1.cpp"
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    main1();
+    cout<<"s";
 }
