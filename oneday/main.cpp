@@ -1,6 +1,7 @@
 #include <iostream>
-#include "main1.cpp"
+using namespace std;
+#include "test.h"
 int main() {
-    main1();
-    cout<<"s";
+    test c(3);
+    cout<<c.Area()<<endl;
 }
